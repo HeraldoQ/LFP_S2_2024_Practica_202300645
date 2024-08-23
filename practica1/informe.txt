@@ -1,0 +1,22 @@
+No.         Producto      Cantidad           P. unit             Total           Ubicacion
+---------------------------------------------------------------------------------
+ 1          Lapices        275                  2.50             687.50          BodegaA   
+ 2          Computadoras     0               3000.00               0.00          BodegaB   
+ 3          Escritorios     75                100.75            7556.25          BodegaC   
+ 4          Sillas         150                 45.00            6750.00          BodegaD   
+ 5          Impresoras      20                200.00            4000.00          BodegaE   
+ 6          Monitores       50                250.00           12500.00          BodegaF   
+ 7          Proyectores     15                500.00            7500.00          BodegaG   
+ 8          Tablets         40                400.00           16000.00          BodegaH   
+ 9          Telefonos       80                150.00           12000.00          BodegaI   
+10          Camaras         25                750.00           18750.00          BodegaJ   
+11          Computadoras    30               3000.00           90000.00          BodegaC   
+12          Lapices        200                  2.50             500.00          BodegaB   
+13          Sillas         100                 45.00            4500.00          BodegaE   
+14          Monitores       40                250.00           10000.00          BodegaA   
+15          Proyectores     20                500.00           10000.00          BodegaF   
+16          Tablets          0                400.00               0.00          BodegaB   
+17          Escritorios    100                100.75           10075.00          BodegaD   
+18          Telefonos        0                150.00               0.00          BodegaG   
+19          Camaras         11                750.00            8250.00          BodegaH   
+20          Impresoras       5                200.00            1000.00          BodegaC   
